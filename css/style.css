@@ -1,0 +1,39 @@
+body{
+    background: black;}
+
+
+img {
+
+}
+
+.test_bild{
+  display: block;
+  margin-left: 60%;
+  margin-right: auto;
+  margin-top: 19%;
+  height: 500px;
+  width: 500px;
+}
+
+h1{
+    text-align: center;
+    color: antiquewhite;
+    margin-top: -45%;
+}
+
+
+h2{
+    text-align: center;
+    color: red;
+    margin-top: 0%;
+}
+
+h3{
+    text-align: center;
+    color: green;
+    margin-top: 0%;
+}
+
+p{
+    color:white
+}
